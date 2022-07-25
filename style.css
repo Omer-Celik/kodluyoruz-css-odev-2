@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+   
+}
+header {
+    display: flex;
+    justify-content: center;
+}
+.container-1 {
+    background: #EEEEEE;   
+    width: 1450px;
+    margin: 0 auto;
+    text-align: center;
+}
+.container-1 #search-box {
+    width: 303px;  
+}
+.container-2 {
+display: flex;
+justify-content: center;
+}
+.box-1 {
+    background: #7EE5DA;
+    width: 540px;
+    padding: 2px;
+    margin: 2px;
+    text-align: center;
+}
+.box-2 {
+   background: #70CCC2; 
+   width: 280px;
+   padding: 2px;
+   margin: 2px;
+   text-align: center;
+}
+.box-3 {
+    background: #62B3AA;
+    width: 610  px;
+    padding: 2px;
+    margin: 2px;
+    text-align: center;
+}
+footer p {
+    padding: 15px;
+    text-align: center;
+}
